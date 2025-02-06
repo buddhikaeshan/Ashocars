@@ -353,6 +353,11 @@ ol {
 	margin-right: 0;
 }
 
+.header__bottom{
+	background-color: #222;
+	padding: 0px 30px;
+}
+
 .header__nav {
 	text-align: right;
 	padding: 32px 0 33px;
@@ -365,8 +370,13 @@ ol {
 .header__logo a {
 	display: inline-block;
 	text-decoration: none;
-	color: #222;
-	font-size: 40px;
+	color: #ffffff;
+	font-size: 30px;
+}
+
+.header__logo img{
+	width: 200px;
+	height: auto;
 }
 
 .header__menu {
@@ -378,6 +388,7 @@ ol {
 	display: inline-block;
 	margin-right: 60px;
 	position: relative;
+	color: #fff;
 }
 
 .header__menu ul li.active a:after {
@@ -431,7 +442,7 @@ ol {
 
 .header__menu ul li a {
 	font-size: 15px;
-	color: #353535;
+	color: #ffffff;
 	font-weight: 700;
 	display: block;
 	padding: 5px 0;
@@ -3343,12 +3354,12 @@ ol {
 	.canvas__open {
 		display: block;
 		font-size: 22px;
-		color: #323232;
+		color: #cacaca;
 		height: 35px;
 		width: 35px;
 		line-height: 35px;
 		text-align: center;
-		border: 1px solid #323232;
+		border: 1px solid #cacaca;
 		border-radius: 2px;
 		cursor: pointer;
 		position: absolute;
@@ -3635,12 +3646,12 @@ ol {
 	.canvas__open {
 		display: block;
 		font-size: 22px;
-		color: #323232;
+		color: #cacaca;
 		height: 35px;
 		width: 35px;
 		line-height: 35px;
 		text-align: center;
-		border: 1px solid #323232;
+		border: 1px solid #d9d9d9;
 		border-radius: 2px;
 		cursor: pointer;
 		position: absolute;
