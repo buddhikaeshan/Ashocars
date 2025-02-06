@@ -749,7 +749,7 @@ ol {
 
 .feature__text__desc p {
 	font-size: 18px;
-	color: #222;
+	color: #222	;
 	margin-bottom: 30px;
 	text-shadow: 1px 1px 10px #fff;
 }
@@ -1425,6 +1425,7 @@ ol {
 .footer__contact__option .option__item.email {
 	color: #323232;
 	background: #ffffff;
+	width: 100%;
 }
 
 .footer__contact__option .option__item.email i {
@@ -1450,10 +1451,7 @@ ol {
 
 .footer__logo img {
 	width: 200px;
-	height: 200px;
-	border-radius: 100%;
-
-}
+	height: 200px;}
 
 .footer__logo a {
 	display: inline-block;
@@ -3962,4 +3960,7 @@ ol {
 
 .fade.in {
     opacity: 1;
+}
+a{
+	color: #fff;
 }
