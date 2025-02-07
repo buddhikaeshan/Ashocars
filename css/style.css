@@ -3830,7 +3830,7 @@ ol {
 @media only screen and (max-width: 479px) {
 	.video_youtube {
 		width: 100%;
-		height: auto;
+		height: 100%;
 
 	}
 
@@ -3960,6 +3960,10 @@ ol {
 	display: block;
 }
 
+.video{
+background-color: #e0e0e0;
+}
+
 @media only screen and (max-width: 767px) {
 	.grid-gallery {
 		grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
@@ -3975,7 +3979,7 @@ ol {
 
 	.feature__2__text__desc p {
 		font-size: 13px;
-		line-height: 1;
+		line-height: 1.5;
 		margin-bottom: 10px;
 	}
 
