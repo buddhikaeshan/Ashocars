@@ -1,8 +1,22 @@
-Thank you for using our template!
+<h1>AshoCars 🚗</h1>
+AshoCars is a car sales website designed to showcase vehicles through a beautifully crafted gallery. Built using HTML5, CSS, and JavaScript, it provides a visually appealing and user-friendly experience.
 
-For more awesome templates please visit https://colorlib.com/wp/templates/
+🌟 Live Demo
+🔗 Check out the website: AshoCars
 
-Copyright information for the template can't be altered/removed unless you purchase a license.
-More information about the license is available here: https://colorlib.com/wp/licence/
+🚀 Features
+Car Gallery – A collection of car images displayed in a stylish layout.
+Responsive Design – Optimized for all screen sizes.
+Smooth Animations – Interactive and visually engaging effects.
+User-Friendly Navigation – Easy browsing experience.
 
-Removing copyright information without the license will result in suspension of your hosting and/or domain name(s).
+🛠 Technologies Used
+HTML5 – Structuring web pages.
+CSS3 – Styling and layout.
+JavaScript – Interactive features and animations.
+Open index.html in a browser.
+
+📌 Future Enhancements
+Add a contact form for customer inquiries.
+Implement a slideshow feature for the gallery.
+Include a filtering option for different car models.
