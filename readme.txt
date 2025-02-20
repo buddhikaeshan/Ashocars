@@ -1,4 +1,4 @@
-<h1>AshoCars 🚗</h1>
+AshoCars 🚗
 AshoCars is a car sales website designed to showcase vehicles through a beautifully crafted gallery. Built using HTML5, CSS, and JavaScript, it provides a visually appealing and user-friendly experience.
 
 🌟 Live Demo
