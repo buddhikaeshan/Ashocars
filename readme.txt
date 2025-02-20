@@ -2,7 +2,7 @@ AshoCars 🚗
 AshoCars is a car sales website designed to showcase vehicles through a beautifully crafted gallery. Built using HTML5, CSS, and JavaScript, it provides a visually appealing and user-friendly experience.
 
 🌟 Live Demo
-🔗 Check out the website: AshoCars
+🔗 Check out the website: https://ashocars.com/
 
 🚀 Features
 Car Gallery – A collection of car images displayed in a stylish layout.
